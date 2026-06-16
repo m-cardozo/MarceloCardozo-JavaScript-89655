@@ -1,0 +1,8 @@
+[
+  { "minDistancia": 0, "maxDistancia": 15, "precioKm": 25 },
+  { "minDistancia": 15, "maxDistancia": 30, "precioKm": 21 },
+  { "minDistancia": 30, "maxDistancia": 60, "precioKm": 19 },
+  { "minDistancia": 60, "maxDistancia": 100, "precioKm": 16 },
+  { "minDistancia": 100, "maxDistancia": 140, "precioKm": 13 },
+  { "minDistancia": 140, "maxDistancia": "Infinity", "precioKm": 10 }
+]
